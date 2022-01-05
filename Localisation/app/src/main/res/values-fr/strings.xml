@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="hello_text">Bonjour</string>
+    <string name="good_morning_text">Good Morning</string>
+    <string name="thank_you_text">Thank You</string>
+    <string name="goodbye_text">Goodbye</string>
+    <string name="love_you_text">Love You</string>
+</resources>

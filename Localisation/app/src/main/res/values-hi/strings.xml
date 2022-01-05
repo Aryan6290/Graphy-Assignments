@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्थानीयकरण</string>
+    <string name="hello_text">नमस्ते</string>
+    <string name="good_morning_text">शुभ प्रभात</string>
+    <string name="thank_you_text">धन्यवाद</string>
+    <string name="goodbye_text">अलविदा</string>
+    <string name="love_you_text">मुझे तुमसे प्यार है</string>
+</resources>

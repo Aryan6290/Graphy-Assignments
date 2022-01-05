@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ort</string>
+    <string name="hello_text">Hallo</string>
+    <string name="good_morning_text">Guten Morgen</string>
+    <string name="thank_you_text">Danke schön</string>
+    <string name="goodbye_text">Auf Wiedersehen</string>
+    <string name="love_you_text">Dich lieben</string>
+</resources>
